@@ -33,7 +33,7 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-c
 ## Overview
   - ### The Challenge
   
-  The challenge was to build out this QR code component and get it looking as close to the design as possible.
+Not Finish. Miss JavaScript
   
   - ### Screenshot
   <div align="center">
