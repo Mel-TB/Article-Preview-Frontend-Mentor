@@ -48,7 +48,7 @@ Not Finish. Miss JavaScript
   
   - ### Links
     - Solution URL: <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT">Frontend Mentor Solution</a>
-    - Live Site URL: <a href="https://qr-codecomponent-frontend-mentor.netlify.app">Live Site Netlify</a>
+    - Live Site URL: <a href="https://articlepreview-frontend.netlify.app">Live Site Netlify</a>
 
 ## My Process
   - ### Built With
